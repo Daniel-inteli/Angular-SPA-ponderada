@@ -7,7 +7,7 @@ O tutorial consiste na elaboração de formulários dinâmicos, com a finalidade
 
 Um dos grandes aprendizados desse tutorial foi como utilizar formulários dinãmicos em Angular para casos onde o formulário precise se adaptar a mudanças sem necessidade de alterar o código fonte, isso é muito útil para questionários onde as perguntas podem variar dependendo do contexto. Para utilizar disso passamos pelo processo de utilizar o Reactive Forms do Angular, e desenvolvimento de componentes para geração de controles.
 
-![Dynamic Forms](./My-app//src/assets/asset2.png)
+![Dynamic Forms](./my-app//src/assets/asset2.png)
 
 ## Conclusão 
 
